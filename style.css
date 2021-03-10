@@ -1,0 +1,87 @@
+body {
+  background-color: #F6F5F3;
+  font-family: 'Merriweather', serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-bottom: 1px solid #F0F0F0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #F0F0F0;
+}
+
+#logo {
+  width: 160px;
+}
+
+.mainContent {
+  width: 100%;
+  margin: auto;
+}
+
+.heroShot {
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.descriptionText {
+  max-width: 450px;
+  margin: auto;
+}
+
+.rwanda {
+  color: #D14413;
+}
+
+.hairbender {
+  color: #512C1C;
+}
+
+.guatemalaBourbon {
+  color: #003F87;
+}
+
+.colContent {
+  margin-bottom: 100px;
+}
+
+.col1, .col2 {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.footer {
+  clear: left;
+  overflow: hidden;
+  text-align: center;
+  background-color: #1E1815;
+  color: #BF955A;
+}
+
+.footerImage {
+  max-width: 100%;
+  height: auto;
+}
